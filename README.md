@@ -1,2 +1,3 @@
 # OctaNet
-click to visit website:https://chinusmitamoharana.github.io/OctaNet/
+click to visit website:
+https://github.com/ChinusmitaMoharana/OctaNet
